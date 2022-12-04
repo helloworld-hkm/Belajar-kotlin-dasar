@@ -12,5 +12,5 @@ fun main() {
     println(double)
 //    konversi
     var angka :Int  =age.toInt()
-    println(angka)
+    println(angka) 
 }
